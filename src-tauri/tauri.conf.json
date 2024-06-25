@@ -20,8 +20,7 @@
       {
         "fullscreen": true,
         "resizable": false,
-        "title": "trends-screensaver",
-        "url": "https://trends.google.co.jp/trends/hottrends/visualize?pn=p4&hl=ja&nrow=5&ncol=5"
+        "title": "trends-screensaver"
       }
     ],
     "security": {
