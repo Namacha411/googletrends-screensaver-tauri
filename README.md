@@ -1,8 +1,15 @@
 # googletrends-screensaver-tauri
 
+screensaver this site
+<https://trends.google.co.jp/trends/hottrends/visualize?pn=p4&hl=ja&nrow=5&ncol=5>
+
+## install
+
+install to `C:\Windows\System32`
+
 ## required
 
-https://github.com/tauri-apps/tauri/discussions/3048
+<https://github.com/tauri-apps/tauri/discussions/3048>
 
 ## Tauri + Vanilla
 
